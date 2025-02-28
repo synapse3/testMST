@@ -394,7 +394,7 @@ header .logo{
     object-position: center;
 }
 
-@media (max-width:1550px){
+@media (max-width:1620px){
     .banner-content{
         padding: 2rem 0 2rem 2rem;
     }
